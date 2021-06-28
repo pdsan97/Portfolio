@@ -3,7 +3,7 @@ import fitnessTracker from '../../gifs/fitness-tracker.gif';
 import blog from '../../gifs/blog.gif';
 import quizGame from '../../gifs/quiz-game.gif';
 import workdayScheduler from '../../gifs/workday-scheduler.gif';
-import ghipy from '../../gifs/giphy.gif';
+import gify from '../../gifs/giphy.gif';
 
 import { ProjectsWrapper } from './Atoms';
 import { Project } from './Project';
@@ -45,10 +45,10 @@ export const projectsConfig = [
 	},
 	{
 		id: 5,
-		title: 'Ghipy Day',
+		title: 'gify Day',
 		url: 'https://joshuamaney.github.io/have_a_giphy_day',
 		repositoryUrl: 'https://github.com/joshuamaney/have_a_giphy_day',
-		gif: ghipy,
+		gif: gify,
 	},
 ];
 

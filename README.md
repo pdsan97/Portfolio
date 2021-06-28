@@ -1,7 +1,9 @@
 #  Portfolio
 
-This is my new portfolio where i can track my progress as a developer
+![](https://i.imgur.com/m7MBrRG.png)
 
-## Link -
+This is my new portfolio where I can track my progress as a developer
 
-## Repository
+## Link - https://peters-portfolio.herokuapp.com/
+
+## Repository - https://github.com/pdsan97/Portfolio
